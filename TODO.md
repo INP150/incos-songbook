@@ -44,7 +44,7 @@
 - [ ] Mraky
 - [ ] Na vodě
 - [ ] Nebe peklo ráj
-- [ ] Nechte zvony znít
+- [x] Nechte zvony znít
 - [ ] Nilský krokodýl
 - [ ] Pár havraních copánků
 - [ ] Pavilon č. 5
