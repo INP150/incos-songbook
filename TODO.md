@@ -21,7 +21,7 @@
 - [x] Hvězdář
 - [x] Chci ti říct
 - [x] Chci zas v tobě spát
-- [ ] Chválím tě země má
+- [x] Chválím tě země má
 - [ ] Jelen
 - [x] Jaro (Fešáci)
 - [ ] Jdem zpátky do lesů
