@@ -20,7 +20,7 @@
 - [x] Huddsonské šífy
 - [x] Hvězdář
 - [x] Chci ti říct
-- [ ] Chci zas v tobě spát
+- [x] Chci zas v tobě spát
 - [ ] Chválím tě země má
 - [ ] Jelen
 - [x] Jaro (Fešáci)
