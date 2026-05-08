@@ -12,6 +12,7 @@
 #include "carpe_diem.typ"
 #include "cernej_pasazer.typ"
 // #include "cerne_oci_jdete_spat.typ"
+#include "chci_ti_rict.typ"
 #include "co_bylo_dal.typ"
 #include "co_jsem_mel_dnes_k_obedu.typ"
 // #include "co_kdyz.typ"

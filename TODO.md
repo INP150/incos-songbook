@@ -19,7 +19,7 @@
 - [x] Fajn džob
 - [x] Huddsonské šífy
 - [x] Hvězdář
-- [ ] Chci ti říct
+- [x] Chci ti říct
 - [ ] Chci zas v tobě spát
 - [ ] Chválím tě země má
 - [ ] Jelen
