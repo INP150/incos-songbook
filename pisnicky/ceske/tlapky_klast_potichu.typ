@@ -50,7 +50,7 @@
   Emi A Emi A Emi A\
   Hmi E Hmi E\
   H E H A\
-  D G D G F\#mi F\#mi H
+  D G D G F\#mi H
 ]
 
 #verse[
