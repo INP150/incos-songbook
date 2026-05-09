@@ -1,5 +1,8 @@
 #import "@local/crumblysong:0.1.0": *;
 
+#import "/style.typ": style;
+#show: style
+
 #show: doc => song(
   title: [Bedna od whisky],
   author: [Miki Ryvola],
@@ -9,8 +12,8 @@
 #verse[
   #c[Ami]Dneska už mně #c[C]fóry ňák #c[Ami]nejdou přes pys#c[E]ky,\
   #c[Ami]stojím s dlouhou #c[C]kravatou na #c[Ami]bedně #c[E]vod whis#c[Ami]ky,\
-  #c[Ami]stojím s dlouhým vo#c[C]bojkem jak #c[Ami]stájovej pi#c[E]nč,\
-  tu #c[Ami]kravatu, co #c[C]nosím, mi #c[Ami]navlík' #c[E]soudce Ly#c[A]nč.
+  #c[Ami]stojím s dlouhým #c[C]vobojkem #c[Ami]jak stájovej #c[E]pinč,\
+  tu #c[Ami]kravatu, co #c[C]nosím, mi #c[Ami]navlík' #c[E]soudce #c[A]Lynč.
 ]
 
 #chorus[
@@ -21,10 +24,10 @@
 ]
 
 #verse[
-  Mít tak všechny bedny od whisky vypitý,\
-  postavil bych malej dům na louce ukrytý,\
-  postavil bych malej dům a z vokna koukal ven\
-  a chlastal bych tam s Bilem a chlastal by tam Ben.
+  #ca[Ami]Mít tak všechny #ca[C]bedny od #ca[Ami]whisky vypi#ca[E]tý,\
+  #ca[Ami]postavil bych #ca[C]malej dům na #ca[Ami]louce #ca[E]ukry#ca[Ami]tý,\
+  #ca[Ami]postavil bych #ca[C]malej dům a #ca[Ami]z vokna koukal #ca[E]ven\
+  a #ca[Ami]chlastal bych tam #ca[C]s Bilem a #ca[Ami]chlastal #ca[E]by tam #ca[A]Ben.
 ]
 
 #chorus[
@@ -32,10 +35,10 @@
 ]
 
 #verse[
-  Kdyby jsi se, hochu, jen porád nechtěl rvát,\
-  nemusel jsi dneska na týhle bedně stát,\
-  moh' jsi někde v suchu tu svoji whisku pít,\
-  nemusel jsi dneska na krku laso mít.
+  #ca[Ami]Kdyby jsi se, #ca[C]hochu, jen #ca[Ami]pořád nechtěl #ca[E]rvát,\
+  #ca[Ami]nemusel jsi #ca[C]dneska na #ca[Ami]týhle #ca[E]bedně #ca[Ami]stát,\
+  #ca[Ami]moh' jsi někde v #ca[C]suchu tu #ca[Ami]svoji whisku #ca[E]pít,\
+  #ca[Ami]nemusel jsi #ca[C]dneska na #ca[Ami]krku #ca[E]laso #ca[A]mít.
 ]
 
 #chorus[
@@ -43,16 +46,16 @@
 ]
 
 #verse[
-  Až kopneš do tý bedny, jak se to dělává,\
-  do krku mi zůstane jen dírka mrňavá,\
-  jenom dírka mrňavá a k smrti jenom krok,\
-  má to smutnej konec, a whisky ani lok.
+  Až #ca[Ami]kopneš do tý #ca[C]bedny, jak #ca[Ami]se to dělá#ca[E]vá,\
+  #ca[Ami]do krku mi #ca[C]zůstane jen #ca[Ami]dírka #ca[E]mrňa#ca[Ami]vá,\
+  #ca[Ami]jenom dírka #ca[C]mrňavá a #ca[Ami]k smrti jenom #ca[E]krok,\
+  #ca[Ami]má to smutnej #ca[C]konec, a #ca[Ami]whisky #ca[E]ani #ca[A]lok.
 ]
 
 #chorus[
-  Tak kopni do tý bedny, ať panstvo nečeká,\
-  jsou dlouhý schody do nebe a štreka daleká\
-  do nebeskýho báru, já sucho v krku mám,\
-  tak kopni do tý bedny!
+  Tak #ca[A]kopni do tý #ca[D]bedny, ať #ca[E]panstvo neče#ca[A]ká,\
+  jsou #ca[A]dlouhý schody #ca[D]do nebe a #ca[E]štreka dale#ca[A]ká\
+  do #ca[A]nebeskýho #ca[D]báru, já #ca[E]sucho v krku #ca[A]mám,\
+  tak #ca[A]kopni do tý #ca[D]bedny!
 ]
 

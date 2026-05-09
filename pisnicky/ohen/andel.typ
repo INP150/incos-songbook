@@ -1,5 +1,8 @@
 #import "@local/crumblysong:0.1.0": *;
 
+#import "/style.typ": style;
+#show: style
+
 #show: doc => song(
   title: [Anděl],
   author: [Karel Kryl],
@@ -21,10 +24,10 @@
 ]
 
 #verse[
-  Pak hlídali jsme oblohu, pozorujíce ptáky,\
-  debatujíce o Bohu a hraní na vojáky,\
-  do tváře jsem mu neviděl, pokoušel se ji schovat,\
-  to asi ptákům záviděl, že mohou poletovat.
+  #ca[G]Pak hlída#ca[Emi]li jsme oblohu, #ca[G]pozoru#ca[D7]jíce ptáky,\
+  #ca[G]debatu#ca[Emi]jíce o Bohu #ca[G]a hraní na #ca[D7]vojáky,\
+  #ca[G]do tváře #ca[Emi]jsem mu neviděl, #ca[G]pokoušel #ca[D7]se ji schovat,\
+  #ca[G]to asi #ca[Emi]ptákům záviděl, #ca[G]že mohou #ca[D7]poletovat.
 ]
 
 #chorus[
@@ -32,10 +35,10 @@
 ]
 
 #verse[
-  Když novinky mi sděloval u okna do ložnice,\
-  já křídla jsem mu ukoval z mosazný nábojnice,\
-  a tak jsem pozbyl anděla, on oknem odletěl mi,\
-  však přítel prý mi udělá novýho z mojí helmy.
+  #ca[G]Když novin#ca[Emi]ky mi sděloval #ca[G]u okna #ca[D7]do ložnice,\
+  #ca[G]já křídla #ca[Emi]jsem mu ukoval #ca[G]z mosazný #ca[D7]nábojnice,\
+  #ca[G]a tak jsem #ca[Emi]pozbyl anděla, #ca[G]on oknem #ca[D7]odletěl mi,\
+  #ca[G]však přítel #ca[Emi]prý mi udělá #ca[G]novýho #ca[D7]z mojí helmy.
 ]
 
 #chorus[
