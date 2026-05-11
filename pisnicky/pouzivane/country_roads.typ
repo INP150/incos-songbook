@@ -6,7 +6,7 @@
 #show: doc => song(
   title: [Country Roads],
   author: [John Denver],
-  url: "https://youtu.be/Kh__IwfWcYg",
+  url: "https://www.youtube.com/watch?v=1vrEljMfXYo",
   doc,
 )
 

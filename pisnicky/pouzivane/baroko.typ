@@ -6,7 +6,7 @@
 #show: doc => song(
   title: [Baroko],
   author: [Richard Müller],
-  url: "https://www.youtube.com/watch?v=1vrEljMfXYo",
+  url: "https://youtu.be/Kh__IwfWcYg",
   cols: 2,
   doc,
 )
