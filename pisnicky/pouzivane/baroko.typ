@@ -7,6 +7,7 @@
   title: [Baroko],
   author: [Richard Müller],
   url: "https://www.youtube.com/watch?v=1vrEljMfXYo",
+  cols: 2,
   doc,
 )
 
