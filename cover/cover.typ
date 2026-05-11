@@ -3,7 +3,7 @@
 
 
 #let rect_text(
-  block_color: black, // colors.scout-lily.yellow,
+  block_color: navy, // colors.scout-lily.yellow,
   dir: ttb,
   text_size: 1.7em,
   style: "italic",
@@ -82,7 +82,7 @@
     {
       set align(horizon)
       stack(spacing: -7%, dir: btt)[
-        #block(fill: black, width: 100%, height: 25%, inset: 2em)[
+        #block(fill: navy, width: 100%, height: 25%, inset: 2em)[
           #set text(fill: white, size: 6em)
           #set align(horizon + center)
           #name
@@ -135,10 +135,7 @@
       [
         #set align(horizon)
 
-        #block(fill: colors.scout-lily.blue, inset: 1.5em)[
-          #set text(fill: white)
-          #image(height: 4em, img)
-        ]
+        #image(height: 10em, img)
       ],
     ),
     // Bottom info

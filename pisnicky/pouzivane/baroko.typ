@@ -83,7 +83,7 @@
     #ca[F]Zem která #ca[C]nemá své #ca[Dmi]nebe #ca[B] \
     #ca[F]Ztratila #ca[C]všechno i #ca[Dmi]sebe #ca[B] \
     #ca[F]Zarůstá #ca[C]pastvou jen #ca[Dmi]pro oko #ca[B] \
-    #ca[F]Proč si tak #ca[C]zdálené #ca[Dmi]baroko #ca[B] \
+    #ca[F]Proč si tak #ca[C]zdálené #ca[Dmi]baroko #ca[B]
   ]
 ]<zem-ktera-2>
 
