@@ -1,7 +1,9 @@
 // #set block(stroke: gray)
+#import "colors.typ" as colors: scout-lily
+
 
 #let rect_text(
-  block_color: navy,
+  block_color: black, // colors.scout-lily.yellow,
   dir: ttb,
   text_size: 1.7em,
   style: "italic",
@@ -80,16 +82,16 @@
     {
       set align(horizon)
       stack(spacing: -7%, dir: btt)[
-        #block(fill: navy, width: 100%, height: 25%, inset: 2em)[
+        #block(fill: black, width: 100%, height: 25%, inset: 2em)[
           #set text(fill: white, size: 6em)
           #set align(horizon + center)
           #name
         ]
       ][
         // Image taken from https://orlybooks.com/
-        #move(dx: 12%, image(
-          "cat.svg",
-          alt: "small kitten drawn in black ink looking slightly up and a bit confused",
+        #move(dx: 0%, image(
+          "incos.png",
+          alt: "black and white drawing of an Indian chief with two feathers on his head looking forward",
           width: 75%,
         ))
       ]
@@ -133,7 +135,7 @@
       [
         #set align(horizon)
 
-        #block(fill: navy, inset: 1.5em)[
+        #block(fill: colors.scout-lily.blue, inset: 1.5em)[
           #set text(fill: white)
           #image(height: 4em, img)
         ]
