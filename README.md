@@ -6,14 +6,15 @@ Online verzovaný skautský zpěvník Inků sázený v Typstu.
 
 #### [Aktuální zpěvník](https://github.com/INP150/incos-songbook/releases/download/latest/zpevnik.pdf)
 
-#### [Aktualní zpěvník (verze s více akordy)](https://github.com/INP150/incos-songbook/releases/download/latest/zpevnik-alt.pdf)
+#### [Aktualní zpěvník (verze bez akordů)](https://github.com/INP150/incos-songbook/releases/download/latest/zpevnik-alt.pdf)
 
 [![Download](./static/download.png)](https://github.com/INP150/incos-songbook/releases/download/latest/zpevnik.pdf)
 
 #### [Historie verzí zpěvníku](https://github.com/INP150/incos-songbook/releases)
 
-<img src="./cover/cover_preview.svg" alt="Alt Text" width="300">
+<!--<img src="./cover/cover_preview.svg" alt="Alt Text" width="300"> -->
 
+<!--
 ## Kompilace
 
 Celý zpěvník je vysázen v [Typstu](https://typst.app/),
@@ -33,6 +34,8 @@ Následně stačí jen spustit Typst kompilátor:
 ```bash
 typst compile main.typ zpevnik.pdf
 ```
+
+-->
 
 ## Další písničky
 
