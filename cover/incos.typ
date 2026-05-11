@@ -23,14 +23,14 @@
   main_text: [
     #set text(size: 1.7em)
     #block(width: 82.5%)[
-      Tento zpěvník obsahuje všechny Incos písně v online formátu.
+      Tento zpěvník obsahuje všechny Incos písně na tábor i mimo.
 
-      Zpěvník je online verzovaný na GitHubu, pro zobrazení můžete naskenovat QR kód.
+      Zpěvník je online, pro zobrazení můžete naskenovat QR kód.
 
       #image(
         "../static/download.png",
         alt: "QR code linking to the online version of the songbook",
-        width: 45%,
+        width: 55%,
       )
     ]
   ],

@@ -7,7 +7,7 @@
   doc,
 )
 
-#verse[
+#chorus[
   #rep[#c[Ami]Mezi #c[G]hora#c[Ami]mi, lipka #c[G]zele#c[Ami]ná,]\
   #rep[#c[C]zabili Janka, #c[G]Janíčka, #c[Ami]Janka, miesto #c[G]jele#c[Ami]ňa.]
 ]
@@ -27,7 +27,7 @@
   hned na hrob padla, a viac nevstala, dobrá Anička.
 ]
 
-#verse[
-  \= 1.
+#chorus[
+  Mezi horami...
 ]
 
