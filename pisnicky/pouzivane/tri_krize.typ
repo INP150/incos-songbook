@@ -4,6 +4,7 @@
   title: [Tři kříže],
   author: [Hop Trop],
   url: "https://www.youtube.com/watch?v=X28NJeiX2Ks",
+  cols: 2,
   doc,
 )
 
@@ -44,6 +45,15 @@
 #chorus[
   Jen tři kříže...
 ]
+
+\
+\
+\
+\
+\
+\
+\
+\
 
 #verse[
   Třetí kříž snad vyvolá jen vztek,\
