@@ -3,6 +3,7 @@
 #show: doc => song(
   title: [Mezi horami],
   author: [Čechomor],
+  url: "https://www.youtube.com/watch?v=Ti1Bi-GfIWg",
   doc,
 )
 

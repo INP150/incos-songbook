@@ -6,6 +6,7 @@
 #show: doc => song(
   title: [Hudsonský šífy],
   author: [Wabi Daněk],
+  url: "https://www.youtube.com/watch?v=F-kWonYmeNQ",
   line_spacing: 0.5em,
   doc,
 )

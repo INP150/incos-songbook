@@ -3,12 +3,13 @@
 #show: doc => song(
   title: [Eldorádo],
   author: [Waldemar Matuška],
+  url: "https://www.youtube.com/watch?v=DrdohEa4U90",
   font_size: 0.99em,
   doc,
 )
 
 #verse[
-  #c[Ami]V dálných #c[G]dálkách zámo#c[Ami][ří,] #c[Ami]ční prý #c[G]zlaté poho#c[Ami]ří,\
+  #c[Ami]V dálných #c[G]dálkách zámo#c[Ami]ří, ční prý #c[G]zlaté poho#c[Ami]ří,\
   #c[Ami]přícho#c[C]zího pohos#c[D]tí, #c[F]nádhe#c[C]rou a hojnos#c[G]tí.#c[E]
 ]
 
@@ -43,7 +44,9 @@
 ]
 
 #chorus[
-  Jít a hledat Eldorádo... (2x)
+  #rep[
+    Jít a hledat Eldorádo...
+  ]
 ]
-#transpose_state.update(c => c - 2)
+
 

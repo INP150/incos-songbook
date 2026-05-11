@@ -6,6 +6,7 @@
 #show: doc => song(
   title: [Černej pasažér],
   author: [Traband],
+  url: "https://www.youtube.com/watch?v=Y0mfF7Z9Cs8",
   doc,
 )
 

@@ -6,6 +6,7 @@
 #show: doc => song(
   title: [Missisippi],
   author: [Pacifik],
+  url: "https://www.youtube.com/watch?v=GakzhpRqQCA",
   doc,
 )
 

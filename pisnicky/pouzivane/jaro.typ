@@ -6,6 +6,7 @@
 #show: doc => song(
   title: [Jaro],
   author: [Fešáci],
+  url: "https://www.youtube.com/watch?v=65QCtlqq4y8",
   capo: 2,
   doc,
 )

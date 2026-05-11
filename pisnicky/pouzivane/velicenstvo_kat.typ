@@ -3,6 +3,7 @@
 #show: doc => song(
   title: [Veličenstvo kat],
   author: [Karel Kryl],
+  url: "https://www.youtube.com/watch?v=CJ81xkUnfUY",
   doc,
 )
 

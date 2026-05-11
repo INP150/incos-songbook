@@ -3,6 +3,7 @@
 #show: doc => song(
   title: [Hejkal],
   author: [Wabi Daněk],
+  url: "https://www.youtube.com/watch?v=Wv_sdHYZWP4",
   doc,
 )
 

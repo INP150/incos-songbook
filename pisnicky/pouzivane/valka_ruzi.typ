@@ -3,6 +3,7 @@
 #show: doc => song(
   title: [Válka růží],
   author: [Spirituál kvintet],
+  url: "https://www.youtube.com/watch?v=4J37MvcH4S8",
   doc,
 )
 

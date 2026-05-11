@@ -6,6 +6,7 @@
 #show: doc => song(
   title: [Tereza - osamělý město],
   author: [Hoboes],
+  url: "https://www.youtube.com/watch?v=ZQGJeEIFdg4",
   doc,
 )
 

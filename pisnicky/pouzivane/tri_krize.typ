@@ -3,6 +3,7 @@
 #show: doc => song(
   title: [Tři kříže],
   author: [Hop Trop],
+  url: "https://www.youtube.com/watch?v=X28NJeiX2Ks",
   doc,
 )
 

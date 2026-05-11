@@ -3,6 +3,7 @@
 #show: doc => song(
   title: [Frankie Dlouhán],
   author: [František Nedvěd],
+  url: "https://www.youtube.com/watch?v=plBLqmqtzpA",
   doc,
 )
 
