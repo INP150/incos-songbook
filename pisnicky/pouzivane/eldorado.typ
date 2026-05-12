@@ -9,13 +9,17 @@
 )
 
 #verse[
-  #c[Ami]V dálných #c[G]dálkách zámo#c[Ami]ří, ční prý #c[G]zlaté poho#c[Ami]ří,\
-  #c[Ami]přícho#c[C]zího pohos#c[D]tí, #c[F]nádhe#c[C]rou a hojnos#c[G]tí.#c[E]
+  #c[Ami]V dálných #c[G]dálkách zámo#c[Ami]ří, \
+  #c[Ami]ční prý #c[G]zlaté poho#c[Ami]ří,\
+  #c[Ami]přícho#c[C]zího pohos#c[D]tí, \
+  #c[F]nádhe#c[C]rou a hojnos#c[G]tí.#c[E]
 ]
 
 #verse[
-  Dík těm svůdným pověstím, zástupy šly za štěstím,\
-  chátra i ti bohatí, s vírou, že se vyplatí...
+  Dík těm svůdným pověstím, \
+  zástupy šly za štěstím,\
+  chátra i ti bohatí, \
+  s vírou, že se vyplatí...
 ]
 
 #chorus[

@@ -88,8 +88,5 @@
 ]<zem-ktera-2>
 
 #chorus[
-  #ca[F]nananana #ca[C]nanana #ca[Dmi]nananana #ca[B]
-  #ca[F]nananana #ca[C]nanana #ca[Dmi]nananana #ca[B]
-  #ca[F]nananana #ca[C]nanana #ca[Dmi]nananana #ca[B]
-  #ca[F]nananana #ca[C]nanana #ca[Dmi]nananana #ca[B]
+  #ca[F]nananana #ca[C]nanana #ca[Dmi]nananana #ca[B]...
 ]
